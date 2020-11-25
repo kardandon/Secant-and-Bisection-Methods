@@ -28,15 +28,3 @@ we get
 	X = 1.05496
 	Count = 7
 where X is root and Count is number of iterations
-
-In order to compile it we need g++ compiler installed. 
-In windows that has g++ (MinGW (c++ compiler)) we can use either powershell or command prompt (or an ide)
-for command promt: at that directory
-	g++ -o main.exe Project3_izzetemrekucukkaya.cpp
-	main.exe -6 -2 2 -4 -2 6 9 0.8 1.5 0.0001
-for powershell: at that directory
-	g++ -o main.exe Project3_izzetemrekucukkaya.cpp
-	./main.exe -6 -2 2 -4 -2 6 9 0.8 1.5 0.0001
-
-This Project contains 1 source file (cpp)
-Project3_izzetemrekucukkaya.cpp

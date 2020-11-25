@@ -1,5 +1,5 @@
 # Secant-and-Bisection-Methods
-finding root of polinomials with secant and bisection methods usinc pp
+finding root of polinomials with secant and bisection methods using cpp
 
 This project is written in C++ and needs a C++ compiler.
 In this project at least (n+1) + 3 (where n >= 0) arguements are needed in order:

@@ -1,5 +1,6 @@
-İzzet Emre Küçükkaya 2017401123
-Project 3
+# Secant-and-Bisection-Methods
+finding root of polinomials with secant and bisection methods usinc pp
+
 This project is written in C++ and needs a C++ compiler.
 In this project at least (n+1) + 3 (where n >= 0) arguements are needed in order:
 an, an-1,...a0, x0, x1, tolerance (where x1 > x0)
